@@ -3,10 +3,10 @@ shmup game made with Golang and ebiten
 
 Uses
 * Golang
-* (Ebiten)[https://ebiten.org/]
-* Assets by (kenney)[https://www.kenney.nl/assets/space-shooter-redux]
+* [Ebiten](https://ebiten.org/)
+* Assets by [kenney](https://www.kenney.nl/assets/space-shooter-redux)
 
-Demo (game)[https://tangerine-naiad-ce088d.netlify.app/]
+Demo [game](https://tangerine-naiad-ce088d.netlify.app/)
 
 Control: 
 * Panah Kanan/Kiri gerak
